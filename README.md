@@ -42,7 +42,7 @@ the installation root and `W64DEVKIT` to the version.
 Alternatively, add the `bin/` directory to your path. For example, inside
 a `cmd.exe` console or batch script:
 
-    set PATH=c:\path\to\w64devkit\bin;%PATH%
+    set PATH=c:\path\to\w64kit\bin;%PATH%
 
 Then to start an interactive unix shell:
 
