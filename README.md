@@ -1,5 +1,7 @@
 # Portable C and C++ Development Kit for x64 Windows
 
+# IMPORTANT: THIS KIT IS NOT MINE, I UPLOATED THIS FOR SHARE TO MY FRIENDS
+
 [w64devkit][] is a Dockerfile that builds from source a small, portable
 development suite for creating C and C++ applications on and for x64
 Windows. See "Releases" for pre-built, ready-to-use kits.
